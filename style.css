@@ -51,7 +51,7 @@ html{
     padding: 0 23px;
 }
 .background{
-    background: rgba(0, 0, 0, 0.7) url("../img/building.jpg.jpg");
+    background: rgba(0, 0, 0, 0.7) url("building.jpg.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
